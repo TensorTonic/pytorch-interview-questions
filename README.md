@@ -159,6 +159,8 @@ Once you can answer these questions, practise writing the code under time pressu
 
 To see these PyTorch pieces work together in one model, the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through writing a small language model stage by stage and explains when to use NumPy or PyTorch for it.
 
+If you are still learning the library itself, the [How to Learn PyTorch](https://www.tensortonic.com/guides/how-to-learn-pytorch) guide explains how to learn it step by step, and the [Deep Learning Interview Questions](https://www.tensortonic.com/guides/deep-learning-interview-questions) guide covers the theory questions that are often asked alongside the PyTorch round.
+
 ## License
 
 MIT
