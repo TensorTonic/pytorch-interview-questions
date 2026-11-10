@@ -161,6 +161,8 @@ To see these PyTorch pieces work together in one model, the [How to Build an LLM
 
 If you are still learning the library itself, the [How to Learn PyTorch](https://www.tensortonic.com/guides/how-to-learn-pytorch) guide explains how to learn it step by step, and the [Deep Learning Interview Questions](https://www.tensortonic.com/guides/deep-learning-interview-questions) guide covers the theory questions that are often asked alongside the PyTorch round.
 
+For a written walkthrough of how to prepare, the [PyTorch Interview Questions](https://www.tensortonic.com/guides/pytorch-interview-questions) guide explains how to answer the PyTorch questions interviewers ask most often, and the [NumPy Interview Questions](https://www.tensortonic.com/guides/numpy-interview-questions) guide covers the array questions that often come up in the same round.
+
 ## License
 
 MIT
