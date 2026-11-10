@@ -157,6 +157,8 @@ Many interviews include a scenario where a training run is broken and you have t
 
 Once you can answer these questions, practise writing the code under time pressure. The [PyTorch study plan](https://www.tensortonic.com/study-plans/pytorch-basics) and [Cracking Deep Learning](https://www.tensortonic.com/study-plans/cracking-dl) cover the coding round, the [ML coding interview questions](https://www.tensortonic.com/guides/ml-coding-interview-questions) guide lists the functions most often asked from scratch, and the [MLE mock interview](https://www.tensortonic.com/assessments/mle-mock-interview) lets you test yourself before the real one.
 
+To see these PyTorch pieces work together in one model, the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through writing a small language model stage by stage and explains when to use NumPy or PyTorch for it.
+
 ## License
 
 MIT
